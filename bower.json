@@ -1,0 +1,24 @@
+{
+  "name": "notes-mean-stack",
+  "description": "express spa experiments",
+  "main": "app.js",
+  "keywords": [
+    "express",
+    "spa",
+    "experiments",
+    "mongodb",
+    "angular"
+  ],
+  "authors": [
+    "schmalte"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
